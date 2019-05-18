@@ -1,5 +1,16 @@
 # README
 
+## Testing
+
+### Capybara
+
+* https://gist.github.com/them0nk/2166525
+* https://devhints.io/capybara
+* https://github.com/teamcapybara/capybara#using-capybara-with-rspec
+
+---
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
